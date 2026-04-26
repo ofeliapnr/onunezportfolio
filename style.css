@@ -26,6 +26,7 @@ img.bioheadshot {
 
 /* Dropdown Button */
 .dropbtn {
+  position: relative;
     background-color: CCC7BD;
     color: 000000;
     padding: 16px;
