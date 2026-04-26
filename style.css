@@ -13,11 +13,11 @@ body {
     text-align: center;
 }
 
-.headshot {
+img.headshot {
   float: right;
+  margin:5px;
   max-height: 50px;
   width: auto;
-  margin:5px;
 }
 
 /* Dropdown Button */
