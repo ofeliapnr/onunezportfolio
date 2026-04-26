@@ -13,6 +13,10 @@ body {
     text-align: center;
 }
 
+.headshot {
+  size: 40%;
+}
+
 /* Dropdown Button */
 .dropbtn {
     background-color: CCC7BD;
