@@ -19,7 +19,7 @@ body {
   gap: 20px;           /* Adds space between the image and text */
 }
 
-.bioheadshot {
+img.bioheadshot {
   max-width: 50%;     /* Ensures image doesn't overflow */
   height: auto;
 }
