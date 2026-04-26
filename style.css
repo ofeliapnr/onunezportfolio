@@ -13,11 +13,15 @@ body {
     text-align: center;
 }
 
-img.headshot {
-  float: right;
-  margin:5px;
-  max-height: 50px;
-  width: auto;
+.bio {
+  display: flex;       /* Aligns children (img and text) side-by-side */
+  align-items: center; /* Vertically centers the text relative to the image */
+  gap: 20px;           /* Adds space between the image and text */
+}
+
+.bioheadshot {
+  max-width: 50%;     /* Ensures image doesn't overflow */
+  height: auto;
 }
 
 /* Dropdown Button */
