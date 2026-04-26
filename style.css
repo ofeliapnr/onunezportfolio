@@ -14,8 +14,9 @@ body {
 }
 
 .headshot {
-  max-height: 100px;
+  max-height: 50px;
   width: auto;
+  margin:5px;
 }
 
 /* Dropdown Button */
