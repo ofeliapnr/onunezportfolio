@@ -89,7 +89,9 @@ Retrieved 2026-04-26, License - CC BY-SA 4.0
 }
 
 .dropdown-content {
-  display: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   position: relative;
   background-color: #3b86ff;
   z-index: 1;
