@@ -133,5 +133,7 @@ h4 {
 }
 
 .portfolio-video {
-  fit-content:contain;
+  width: 100%;
+  aspect-ratio: 16 / 9; 
+  height: auto;
 }
