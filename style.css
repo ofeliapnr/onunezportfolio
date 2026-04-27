@@ -7,10 +7,10 @@ body {
     color:#6b6774;
 }
 
-a:link, a:visited, a:hover, a:active{
+/*a:link, a:visited, a:hover, a:active{
   text-decoration: none;
   color: black;
-}
+}*/
 
 .myName {
     font-size: larger;
