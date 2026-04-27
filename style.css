@@ -81,7 +81,7 @@ Retrieved 2026-04-26, License - CC BY-SA 4.0
 */
 
 .dropdown {
-  /*display:flex;*/
+  display:flex;
   justify-content:center;
   position: relative;
   display: inline-block;
