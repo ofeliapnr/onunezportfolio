@@ -132,3 +132,6 @@ h4 {
     padding: 5px;
 }
 
+.portfolio-video {
+  fit-content:contain;
+}
