@@ -81,18 +81,14 @@ Retrieved 2026-04-26, License - CC BY-SA 4.0
 */
 
 .dropdown {
-  display:flex;
-  justify-content:center;
   position: relative;
   display: inline-block;
   width: 200px;
 }
 
 .dropdown-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  position: relative;
+  display: none;
+  position: absolute;
   background-color: #3b86ff;
   z-index: 1;
   min-width: 150px;
